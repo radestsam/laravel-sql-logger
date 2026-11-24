@@ -99,8 +99,8 @@ This indicates the service provider is being instantiated multiple times. Ensure
 If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#troubleshooting) section
-2. Search [existing issues](https://github.com/hesamzakerirad/laravel-sql-logger/issues)
-3. Create a [new issue](https://github.com/hesamzakerirad/laravel-sql-logger/issues/new)
+2. Search [existing issues](https://github.com/radestsam/laravel-sql-logger/issues)
+3. Create a [new issue](https://github.com/radestsam/laravel-sql-logger/issues/new)
 
 ## License
 
@@ -108,5 +108,5 @@ This package is open-source software licensed under the MIT license.
 
 ## Credits
 
-- [Hesam Rad](https://github.com/hesamzakerirad)
+- [Hesam Rad](https://github.com/radestsam)
 - [All Contributors](../../contributors)

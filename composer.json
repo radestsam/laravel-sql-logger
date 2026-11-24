@@ -3,7 +3,7 @@
     "description": "A lightweight package to log SQL queries in your Laravel application",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/hesamzakerirad/laravel-sql-logger",
+    "homepage": "https://github.com/radestsam/laravel-sql-logger",
     "require": {
         "php": "^8.2",
         "psr/log": "^3.0",
